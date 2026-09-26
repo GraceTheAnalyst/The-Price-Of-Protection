@@ -85,7 +85,17 @@ This shows the real stakes behind the subsidy-price pattern in this dashboard wh
 - [The Guardian Nigeria — Impact of fuel subsidy removal on Nigeria's economy](https://guardian.ng/opinion/impact-of-fuel-subsidy-removal-on-nigerias-economy/)
 
 ## Conclusion
+
 Subsidies don't just lower fuel prices, they also protect consumers from volatility. Countries without subsidy protection are both more expensive and less predictable.
 
 ## Applications
-Beyond the country-level pricing pattern, this analysis illustrates a risk factor relevant to businesses exposed to crude oil market.
+
+Beyond the country-level pricing pattern, this analysis illustrates a risk factor relevant to businesses exposed to crude oil markets.
+
+Fuel cost volatility doesn't stop at the business level either. In low-subsidy markets, sharp fuel price swings raise transport fares and the cost of moving goods, which pushes up prices for food and everyday items. This falls hardest on lower income households who spend a larger share of what they earn on transport and basic goods. The pattern shown in this dashboard and the real-world impact of Nigeria's 2023 subsidy removal described above, point to the same conclusion which is fuel price instability affects not just business costs but ordinary people's cost of living.
+
+Project Files
+ - sql/fuel_price_feature_engineering.sql
+ - python/fuel_price_forecasting.ipynb
+ - data/forecast_results.csv
+ - powerbi/fuel_price_dashboard.pbix
