@@ -98,4 +98,3 @@ Project Files
  - sql/fuel_price_feature_engineering.sql
  - python/fuel_price_forecasting.ipynb
  - data/forecast_results.csv
- - powerbi/fuel_price_dashboard.pbix
